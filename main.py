@@ -7,13 +7,13 @@ three years of pre-dawn work finally sell out before noon.
 
 import os
 
-Craft notes (why this line):
-- Earned, not asserted: three years of pre-dawn work do the earning;
-  the line never says "proud" or congratulates her.
-- Concrete scene, real person: Ibu Sari, her soto cart, the empty pot.
-- Lands in one read: the pride arrives with the last words, the
-  double wipe of a pot she cannot believe is finally empty.
-- Fresh: a street-food vendor at dawn, not a trophy, podium or graduation.
+# Craft notes (why this line):
+# - Earned, not asserted: three years of pre-dawn work do the earning;
+#   the line never says "proud" or congratulates her.
+# - Concrete scene, real person: Ibu Sari, her soto cart, the empty pot.
+# - Lands in one read: the pride arrives with the last words, the
+#   double wipe of a pot she cannot believe is finally empty.
+# - Fresh: a street-food vendor at dawn, not a trophy, podium or graduation.
 
 ENTRY = "Three years Ibu Sari pushed her soto cart out before dawn; today the last bowl sold before noon, and she wiped the empty pot twice, just to be sure it was really empty."
 
